@@ -1,6 +1,6 @@
 [submodule "ModularityCodes"]
-	path = ModularityCodes
-	url = https://github.com/MoltenEcdysone09/ModularityCodes.git
+	path = Fig1 - Analysis of GSE135390
+	url = https://github.com/MoltenEcdysone09/Fig1 - Analysis of GSE135390.git
 [submodule "StochasticEvolutionToggleTetrahedron"]
 	path = StochasticEvolutionToggleTetrahedron
 	url = git@github.com:Vivek-R-S/StochasticEvolutionToggleTetrahedron.git
