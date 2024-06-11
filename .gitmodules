@@ -1,12 +1,12 @@
 [submodule "ModularityCodes"]
-	path = Fig1 - Analysis of GSE135390
+	path = Fig6C - Generation of Random Networks with TTr embedded
 	url = git@github.com:MoltenEcdysone09/ModularityCodes.git
 [submodule "StochasticEvolutionToggleTetrahedron"]
 	path = Fig5 - Stochastic simulations
 	url = git@github.com:Vivek-R-S/StochasticEvolutionToggleTetrahedron.git
 [submodule "network-permu"]
-	path = network-permu
+	path = Fig6A - Finding all unique 4 node topologies
 	url = git@github.com:Harshavardhan-BV/network-permu.git
 [submodule "Tcell_Toggle_Tetrahedron"]
-	path = Tcell_Toggle_Tetrahedron
+	path = Fig1 - Analysis of GSE135390
 	url = git@github.com:groverkaushal/Tcell_Toggle_Tetrahedron.git
