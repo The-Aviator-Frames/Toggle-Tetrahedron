@@ -1,5 +1,5 @@
 [submodule "ModularityCodes"]
-	path = Fig6C - Generation of Random Networks with TTr embedded
+	path = Fig6C - Genaration of Random Networks with TTr embedded
 	url = git@github.com:MoltenEcdysone09/ModularityCodes.git
 [submodule "StochasticEvolutionToggleTetrahedron"]
 	path = Fig5 - Stochastic simulations
